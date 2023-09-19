@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python , Pytorch , numPy
 - 📫 How to reach me: sheriefshabaan1@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a gamer 🎮
 
