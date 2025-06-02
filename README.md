@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">❗1% coding, 99% ChatGPT<br>📚 I'm currently learning Jakarta EE, DevOps<br>🎯 Goals: 🤔<br>quote: "Being involved is the best way to develop, there's no fun in being safe"</p>
+<p align="left">❗30% coding, 70% Engineering<br>📚 I'm currently learning Spring Framework, DevOps<br>🎯 Goals: Elite-tier Engineer<br>quote: "Being involved is the best way to develop, there's no fun in being safe"</p>
 
 ###
 
