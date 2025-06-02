@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is Sherif! An enthusiast backend software engineer. Interested in building cutting-edge web applications and services using JAVA EE and its related Framework (i.e. Spring).<br>Has a focused, detail-oriented, and adaptable mentality.  Adopting the Agile mentality to optimize the development process and work in cross-functional teams.</p>
+<p align="left">This is Sherif! An enthusiast backend software engineer. Interested in building cutting-edge web applications and services using Spring Freamework.<br>Has a focused, detail-oriented, and adaptable mentality.  Adopting the Agile mentality to optimize the development process and work in cross-functional teams.</p>
 
 ###
 
